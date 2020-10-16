@@ -1,4 +1,4 @@
-# ABBA_BABA_alleleFreq
+# ABBA_BABA_alleleFreq version 1.0
 calculate D statistics using allele frequencies
 
 This script is a derivate of the tutorial written by Simon Martin here: http://evomics.org/learning/population-and-speciation-genomics/2018-population-and-speciation-genomics/abba-baba-statistics/
