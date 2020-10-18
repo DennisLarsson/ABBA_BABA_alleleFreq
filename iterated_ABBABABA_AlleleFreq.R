@@ -1,6 +1,12 @@
 #Genome wide ABBA BABA analysis
 #http://evomics.org/learning/population-and-speciation-genomics/2018-population-and-speciation-genomics/abba-baba-statistics/
 
+#Before running the below commands, make sure that the python2 package Numpy is installed, you can run the below command in a 
+# ubuntu terminal window, (not in R!) to install it:
+# pip2 install numpy
+# if you don't have pip2, then you need to install it first (again, run command in a ubuntu terminal window, not in R!)
+# sudo apt install python-pip
+
 #I am unsure of the package 'boot' is in R by default or if it needs to be downloaded. if it requires downloading use: install.packages("boot")
 library("boot")
 library("parallel")
